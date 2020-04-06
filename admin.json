@@ -1,0 +1,3945 @@
+[
+  {
+    "name": "Hồ Chí Minh",
+    "level": "Thành phố",
+    "counties": [
+      {
+        "name": "1",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(1)"
+      },
+      {
+        "name": "2",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(2)"
+      },
+      {
+        "name": "3",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(3)"
+      },
+      {
+        "name": "4",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(4)"
+      },
+      {
+        "name": "5",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(5)"
+      },
+      {
+        "name": "6",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(6)"
+      },
+      {
+        "name": "7",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(7)"
+      },
+      {
+        "name": "8",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(8)"
+      },
+      {
+        "name": "9",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(9)"
+      },
+      {
+        "name": "10",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(10)"
+      },
+      {
+        "name": "11",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(11)"
+      },
+      {
+        "name": "12",
+        "level": "Quận",
+        "pattern": "(quan|q)([\\.|\\s])?(12)"
+      },
+      {
+        "name": "Bình Tân",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Binh Tan|BinhTan)"
+      },
+      {
+        "name": "Bình Thạnh",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Binh Thanh|BinhThanh)"
+      },
+      {
+        "name": "Gò Vấp",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Go Vap|GoVap)"
+      },
+      {
+        "name": "Phú Nhuận",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Phu Nhuan|PhuNhuan)"
+      },
+      {
+        "name": "Tân Bình",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Tan Binh|TanBinh)"
+      },
+      {
+        "name": "Tân Phú",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Tan Phu|TanPhu)"
+      },
+      {
+        "name": "Thủ Đức",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Thu Duc|ThuDuc)"
+      },
+      {
+        "name": "Bình Chánh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Chanh|BinhChanh)"
+      },
+      {
+        "name": "Cần Giờ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Can Gio|CanGio)"
+      },
+      {
+        "name": "Củ Chi",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cu Chi|CuChi)"
+      },
+      {
+        "name": "Hóc Môn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoc Mon|HocMon)"
+      },
+      {
+        "name": "Nhà Bè",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nha Be|NhaBe)"
+      }
+    ]
+  },
+  {
+    "name": "Hà Nội",
+    "level": "Thành phố",
+    "counties": [
+      {
+        "name": "Ba Đình",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Ba Dinh|BaDinh)"
+      },
+      {
+        "name": "Bắc Từ Liêm",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Bac Tu Liem|BacTuLiem|Bac TuLiem|BacTu Liem)"
+      },
+      {
+        "name": "Cầu Giấy",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Cau Giay|CauGiay)"
+      },
+      {
+        "name": "Đống Đa",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Dong Da|DongDa)"
+      },
+      {
+        "name": "Hà Đông",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Ha Dong|HaDong)"
+      },
+      {
+        "name": "Hai Bà Trưng",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Hai Ba Trung|HaiBaTrung|Hai BaTrung|HaiBa Trung)"
+      },
+      {
+        "name": "Hoàn Kiếm",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Hoan Kiem|HoanKiem)"
+      },
+      {
+        "name": "Hoàng Mai",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Hoang Mai|HoangMai)"
+      },
+      {
+        "name": "Long Biên",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Long Bien|LongBien)"
+      },
+      {
+        "name": "Nam Từ Liêm",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Nam Tu Liem|NamTuLiem|Nam TuLiem|NamTu Liem)"
+      },
+      {
+        "name": "Tây Hồ",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Tay Ho|TayHo)"
+      },
+      {
+        "name": "Thanh Xuân",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Thanh Xuan|ThanhXuan)"
+      },
+      {
+        "name": "Sơn Tây",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Son Tay|SonTay)"
+      },
+      {
+        "name": "Ba Vì",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ba Vi|BaVi)"
+      },
+      {
+        "name": "Chương Mỹ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chuong My|ChuongMy)"
+      },
+      {
+        "name": "Đan Phượng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dan Phuong|DanPhuong)"
+      },
+      {
+        "name": "Đông Anh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Anh|DongAnh)"
+      },
+      {
+        "name": "Gia Lâm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Gia Lam|GiaLam)"
+      },
+      {
+        "name": "Hoài Đức",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoai Duc|HoaiDuc)"
+      },
+      {
+        "name": "Mê Linh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Me Linh|MeLinh)"
+      },
+      {
+        "name": "Mỹ Đức",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(My Duc|MyDuc)"
+      },
+      {
+        "name": "Phú Xuyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Xuyen|PhuXuyen)"
+      },
+      {
+        "name": "Phúc Thọ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phuc Tho|PhucTho)"
+      },
+      {
+        "name": "Quốc Oai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quoc Oai|QuocOai)"
+      },
+      {
+        "name": "Sóc Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Soc Son|SocSon)"
+      },
+      {
+        "name": "Thạch Thất",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thach That|ThachThat)"
+      },
+      {
+        "name": "Thanh Oai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Oai|ThanhOai)"
+      },
+      {
+        "name": "Thanh Trì",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Tri|ThanhTri)"
+      },
+      {
+        "name": "Thường Tín",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thuong Tin|ThuongTin)"
+      },
+      {
+        "name": "Ứng Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ung Hoa|UngHoa)"
+      }
+    ]
+  },
+  {
+    "name": "An Giang",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Long Xuyên",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Long Xuyen|LongXuyen)"
+      },
+      {
+        "name": "Châu Đốc",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Chau Doc|ChauDoc)"
+      },
+      {
+        "name": "Tân Châu",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Tan Chau|TanChau)"
+      },
+      {
+        "name": "An Phú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(An Phu|AnPhu)"
+      },
+      {
+        "name": "Châu Phú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Phu|ChauPhu)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Chợ Mới",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cho Moi|ChoMoi)"
+      },
+      {
+        "name": "Phú Tân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Tan|PhuTan)"
+      },
+      {
+        "name": "Thoại Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thoai Son|ThoaiSon)"
+      },
+      {
+        "name": "Tịnh Biên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tinh Bien|TinhBien)"
+      },
+      {
+        "name": "Tri Tôn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tri Ton|TriTon)"
+      }
+    ]
+  },
+  {
+    "name": "Bà Rịa - Vũng Tàu",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Vũng Tàu",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Vung Tau|VungTau)"
+      },
+      {
+        "name": "Bà Rịa",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ba Ria|BaRia)"
+      },
+      {
+        "name": "Côn Đảo",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Con Dao|ConDao)"
+      },
+      {
+        "name": "Châu Đức",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Duc|ChauDuc)"
+      },
+      {
+        "name": "Đất Đỏ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dat Do|DatDo)"
+      },
+      {
+        "name": "Long Điền",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Long Dien|LongDien)"
+      },
+      {
+        "name": "Tân Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Thanh|TanThanh)"
+      },
+      {
+        "name": "Xuyên Mộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Xuyen Moc|XuyenMoc)"
+      }
+    ]
+  },
+  {
+    "name": "Bắc Giang",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Bắc Giang",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Bac Giang|BacGiang)"
+      },
+      {
+        "name": "Hiệp Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hiep Hoa|HiepHoa)"
+      },
+      {
+        "name": "Lạng Giang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lang Giang|LangGiang)"
+      },
+      {
+        "name": "Lục Nam",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Luc Nam|LucNam)"
+      },
+      {
+        "name": "Lục Ngạn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Luc Ngan|LucNgan)"
+      },
+      {
+        "name": "Sơn Động",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Son Dong|SonDong)"
+      },
+      {
+        "name": "Tân Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Yen|TanYen)"
+      },
+      {
+        "name": "Việt Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Viet Yen|VietYen)"
+      },
+      {
+        "name": "Yên Dũng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Dung|YenDung)"
+      },
+      {
+        "name": "Yên Thế",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen The|YenThe)"
+      }
+    ]
+  },
+  {
+    "name": "Bắc Kạn",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Bắc Kạn",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Bac Kan|BacKan)"
+      },
+      {
+        "name": "Ba Bể",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ba Be|BaBe)"
+      },
+      {
+        "name": "Bạch Thông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bach Thong|BachThong)"
+      },
+      {
+        "name": "Chợ Đồn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cho Don|ChoDon)"
+      },
+      {
+        "name": "Chợ Mới",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cho Moi|ChoMoi)"
+      },
+      {
+        "name": "Na Rì",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Na Ri|NaRi)"
+      },
+      {
+        "name": "Ngân Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ngan Son|NganSon)"
+      },
+      {
+        "name": "Pác Nặm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Pac Nam|PacNam)"
+      }
+    ]
+  },
+  {
+    "name": "Bạc Liêu",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Bạc Liêu",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Bac Lieu|BacLieu)"
+      },
+      {
+        "name": "Giá Rai",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Gia Rai|GiaRai)"
+      },
+      {
+        "name": "Đông Hải",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Hai|DongHai)"
+      },
+      {
+        "name": "Hòa Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoa Binh|HoaBinh)"
+      },
+      {
+        "name": "Hồng Dân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hong Dan|HongDan)"
+      },
+      {
+        "name": "Phước Long",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phuoc Long|PhuocLong)"
+      },
+      {
+        "name": "Vĩnh Lợi",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Loi|VinhLoi)"
+      }
+    ]
+  },
+  {
+    "name": "Bắc Ninh",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Bắc Ninh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Bac Ninh|BacNinh)"
+      },
+      {
+        "name": "Từ Sơn",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Tu Son|TuSon)"
+      },
+      {
+        "name": "Gia Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Gia Binh|GiaBinh)"
+      },
+      {
+        "name": "Lương Tài",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Luong Tai|LuongTai)"
+      },
+      {
+        "name": "Quế Võ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Que Vo|QueVo)"
+      },
+      {
+        "name": "Thuận Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thuan Thanh|ThuanThanh)"
+      },
+      {
+        "name": "Tiên Du",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tien Du|TienDu)"
+      },
+      {
+        "name": "Yên Phong",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Phong|YenPhong)"
+      }
+    ]
+  },
+  {
+    "name": "Bến Tre",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Bến Tre",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ben Tre|BenTre)"
+      },
+      {
+        "name": "Thạnh Phú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Phu|ThanhPhu)"
+      },
+      {
+        "name": "Ba Tri",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ba Tri|BaTri)"
+      },
+      {
+        "name": "Bình Đại",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Dai|BinhDai)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Chợ Lách",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cho Lach|ChoLach)"
+      },
+      {
+        "name": "Giồng Trôm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Giong Trom|GiongTrom)"
+      },
+      {
+        "name": "Mỏ Cày Bắc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mo Cay Bac|MoCayBac|Mo CayBac|MoCay Bac)"
+      },
+      {
+        "name": "Mỏ Cày Nam",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mo Cay Nam|MoCayNam|Mo CayNam|MoCay Nam)"
+      }
+    ]
+  },
+  {
+    "name": "Bình Định",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Quy Nhơn",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Quy Nhon|QuyNhon)"
+      },
+      {
+        "name": "An Nhơn",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(An Nhon|AnNhon)"
+      },
+      {
+        "name": "An Lão",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(An Lao|AnLao)"
+      },
+      {
+        "name": "Hoài Ân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoai An|HoaiAn)"
+      },
+      {
+        "name": "Hoài Nhơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoai Nhon|HoaiNhon)"
+      },
+      {
+        "name": "Phù Cát",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Cat|PhuCat)"
+      },
+      {
+        "name": "Phù Mỹ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu My|PhuMy)"
+      },
+      {
+        "name": "Tây Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tay Son|TaySon)"
+      },
+      {
+        "name": "Tuy Phước",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tuy Phuoc|TuyPhuoc)"
+      },
+      {
+        "name": "Vân Canh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Canh|VanCanh)"
+      },
+      {
+        "name": "Vính Thạnh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Thanh|VinhThanh)"
+      }
+    ]
+  },
+  {
+    "name": "Bình Dương",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Thủ Dầu Một",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Thu Dau Mot|ThuDauMot|Thu DauMot|ThuDau Mot)"
+      },
+      {
+        "name": "Bến Cát",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Ben Cat|BenCat)"
+      },
+      {
+        "name": "Dĩ An",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Di An|DiAn)"
+      },
+      {
+        "name": "Tân Uyên",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Tan Uyen|TanUyen)"
+      },
+      {
+        "name": "Thuận An",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Thuan An|ThuanAn)"
+      },
+      {
+        "name": "Bắc Tân Uyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Tan Uyen|BacTanUyen|Bac TanUyen|BacTan Uyen)"
+      },
+      {
+        "name": "Bàu Bàng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bau Bang|BauBang)"
+      },
+      {
+        "name": "Dầu Tiếng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dau Tieng|DauTieng)"
+      },
+      {
+        "name": "Phú Giáo",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Giao|PhuGiao)"
+      }
+    ]
+  },
+  {
+    "name": "Bình Phước",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Đồng Xoài",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Dong Xoai|DongXoai)"
+      },
+      {
+        "name": "Bình Long",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Binh Long|BinhLong)"
+      },
+      {
+        "name": "Phước Long",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Phuoc Long|PhuocLong)"
+      },
+      {
+        "name": "Bù Đăng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bu Dang|BuDang)"
+      },
+      {
+        "name": "Bù Đốp",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bu Dop|BuDop)"
+      },
+      {
+        "name": "Bù Gia  Mập",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bu Gia Map|BuGiaMap|Bu GiaMap|BuGia Map)"
+      },
+      {
+        "name": "Chơn Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chon Thanh|ChonThanh)"
+      },
+      {
+        "name": "Đồng Phú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Phu|DongPhu)"
+      },
+      {
+        "name": "Hớn Quản",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hon Quan|HonQuan)"
+      },
+      {
+        "name": "Lộc Ninh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Loc Ninh|LocNinh)"
+      },
+      {
+        "name": "Phú Riềng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Rieng|PhuRieng)"
+      }
+    ]
+  },
+  {
+    "name": "Bình Thuận",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Phan Thiết",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Phan Thiet|PhanThiet)"
+      },
+      {
+        "name": "La Gi",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(La Gi|LaGi)"
+      },
+      {
+        "name": "Bắc Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Binh|BacBinh)"
+      },
+      {
+        "name": "Phú Quý",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Quy|PhuQuy)"
+      },
+      {
+        "name": "Đức Linh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duc Linh|DucLinh)"
+      },
+      {
+        "name": "Hàm Tân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ham Tan|HamTan)"
+      },
+      {
+        "name": "Hàm Thuận Bắc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ham Thuan Bac|HamThuanBac|Ham ThuanBac|HamThuan Bac)"
+      },
+      {
+        "name": "Hàm Thuận Nam",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ham Thuan Nam|HamThuanNam|Ham ThuanNam|HamThuan Nam)"
+      },
+      {
+        "name": "Tánh Linh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tanh Linh|TanhLinh)"
+      },
+      {
+        "name": "Tuy Phong",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tuy Phong|TuyPhong)"
+      }
+    ]
+  },
+  {
+    "name": "Cà Mau",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Cà Mau",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ca Mau|CaMau)"
+      },
+      {
+        "name": "Cái Nước",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cai Nuoc|CaiNuoc)"
+      },
+      {
+        "name": "Đầm Dơi",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dam Doi|DamDoi)"
+      },
+      {
+        "name": "Năm Căn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Can|NamCan)"
+      },
+      {
+        "name": "Ngọc Hiển",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ngoc Hien|NgocHien)"
+      },
+      {
+        "name": "Phú Tân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Tan|PhuTan)"
+      },
+      {
+        "name": "Thới Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thoi Binh|ThoiBinh)"
+      },
+      {
+        "name": "Trần Văn Thời",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tran Van Thoi|TranVanThoi|Tran VanThoi|TranVan Thoi)"
+      },
+      {
+        "name": "U Minh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(U Minh|UMinh)"
+      }
+    ]
+  },
+  {
+    "name": "Cần Thơ",
+    "level": "Thành phố",
+    "counties": [
+      {
+        "name": "Bình Thủy",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Binh Thuy|BinhThuy)"
+      },
+      {
+        "name": "Cái Răng",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Cai Rang|CaiRang)"
+      },
+      {
+        "name": "Ninh Kiều",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Ninh Kieu|NinhKieu)"
+      },
+      {
+        "name": "Ô Môn",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(O Mon|OMon)"
+      },
+      {
+        "name": "Thốt Nốt",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Thot Not|ThotNot)"
+      },
+      {
+        "name": "Cờ Đỏ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Co Do|CoDo)"
+      },
+      {
+        "name": "Phong Điền",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phong Dien|PhongDien)"
+      },
+      {
+        "name": "Thới Lai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thoi Lai|ThoiLai)"
+      },
+      {
+        "name": "Vĩnh Thạnh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Thanh|VinhThanh)"
+      }
+    ]
+  },
+  {
+    "name": "Cao Bằng",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Cao Bằng",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Cao Bang|CaoBang)"
+      },
+      {
+        "name": "Bảo Lạc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bao Lac|BaoLac)"
+      },
+      {
+        "name": "Bảo Lâm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bao Lam|BaoLam)"
+      },
+      {
+        "name": "Hạ Lang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ha Lang|HaLang)"
+      },
+      {
+        "name": "Hà Quảng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ha Quang|HaQuang)"
+      },
+      {
+        "name": "Hòa An",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoa An|HoaAn)"
+      },
+      {
+        "name": "Nguyên Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nguyen Binh|NguyenBinh)"
+      },
+      {
+        "name": "Phục Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phuc Hoa|PhucHoa)"
+      },
+      {
+        "name": "Quảng Uyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quang Uyen|QuangUyen)"
+      },
+      {
+        "name": "Thạch An",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thach An|ThachAn)"
+      },
+      {
+        "name": "Thông Nông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thong Nong|ThongNong)"
+      },
+      {
+        "name": "Trà Lĩnh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tra Linh|TraLinh)"
+      },
+      {
+        "name": "Trùng Khánh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Trung Khanh|TrungKhanh)"
+      }
+    ]
+  },
+  {
+    "name": "Đà Nẵng",
+    "level": "Thành phố",
+    "counties": [
+      {
+        "name": "Cẩm Lệ",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Cam Le|CamLe)"
+      },
+      {
+        "name": "Hải Châu",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Hai Chau|HaiChau)"
+      },
+      {
+        "name": "Liên Chiểu",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Lien Chieu|LienChieu)"
+      },
+      {
+        "name": "Ngũ Hành Sơn",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Ngu Hanh Son|NguHanhSon|Ngu HanhSon|NguHanh Son)"
+      },
+      {
+        "name": "Sơn Trà",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Son Tra|SonTra)"
+      },
+      {
+        "name": "Thanh Khê",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Thanh Khe|ThanhKhe)"
+      },
+      {
+        "name": "Hoàng Sa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoang Sa|HoangSa)"
+      },
+      {
+        "name": "Hòa Vang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoa Vang|HoaVang)"
+      }
+    ]
+  },
+  {
+    "name": "Đắk Lắk",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Buôn Ma Thuột",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Buon Ma Thuot|BuonMaThuot|Buon MaThuot|BuonMa Thuot)"
+      },
+      {
+        "name": "Buôn Hồ",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Buon Ho|BuonHo)"
+      },
+      {
+        "name": "Buôn Đôn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Buon Don|BuonDon)"
+      },
+      {
+        "name": "Cư Kuin",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cu Kuin|CuKuin)"
+      },
+      {
+        "name": "Cư M'Gar",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cu M'Gar|CuM'Gar)"
+      },
+      {
+        "name": "Ea H'Leo",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ea H'Leo|EaH'Leo)"
+      },
+      {
+        "name": "Ea Súp",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ea Sup|EaSup)"
+      },
+      {
+        "name": "Ea Kar",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ea Kar|EaKar)"
+      },
+      {
+        "name": "Krông Ana",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Krong Ana|KrongAna)"
+      },
+      {
+        "name": "Krông Bông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Krong Bong|KrongBong)"
+      },
+      {
+        "name": "Krông Búk",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Krong Buk|KrongBuk)"
+      },
+      {
+        "name": "Krông Năng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Krong Nang|KrongNang)"
+      },
+      {
+        "name": "Krông Pắk",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Krong Pak|KrongPak)"
+      },
+      {
+        "name": "Lắk",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lak)"
+      },
+      {
+        "name": "M'Drắk",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(M'Drak)"
+      }
+    ]
+  },
+  {
+    "name": "Đắk Nông",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Gia Nghĩa",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Gia Nghia|GiaNghia)"
+      },
+      {
+        "name": "Cư Jút",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cu Jut|CuJut)"
+      },
+      {
+        "name": "Đắk Glong",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak Glong|DakGlong)"
+      },
+      {
+        "name": "Đắk Mil",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak Mil|DakMil)"
+      },
+      {
+        "name": "Đắk R'Lấp",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak R'Lap|DakR'Lap)"
+      },
+      {
+        "name": "Đắk Song",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak Song|DakSong)"
+      },
+      {
+        "name": "Krông Nô",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Krong No|KrongNo)"
+      },
+      {
+        "name": "Tuy Đức",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tuy Duc|TuyDuc)"
+      }
+    ]
+  },
+  {
+    "name": "Điện Biên",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Điện Biên Phủ",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Dien Bien Phu|DienBienPhu|Dien BienPhu|DienBien Phu)"
+      },
+      {
+        "name": "Mường Lay",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Muong Lay|MuongLay)"
+      },
+      {
+        "name": "Điện Biên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dien Bien|DienBien)"
+      },
+      {
+        "name": "Điện Biên Đông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dien Bien Dong|DienBienDong|Dien BienDong|DienBien Dong)"
+      },
+      {
+        "name": "Mường Ảng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Muong Ang|MuongAng)"
+      },
+      {
+        "name": "Mường Chà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Muong Cha|MuongCha)"
+      },
+      {
+        "name": "Mường Nhé",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Muong Nhe|MuongNhe)"
+      },
+      {
+        "name": "Nậm Pồ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Po|NamPo)"
+      },
+      {
+        "name": "Tủa Chùa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tua Chua|TuaChua)"
+      },
+      {
+        "name": "Tuần Giáo",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tuan Giao|TuanGiao)"
+      }
+    ]
+  },
+  {
+    "name": "Đồng Nai",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Biên Hòa",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Bien Hoa|BienHoa)"
+      },
+      {
+        "name": "Long Khánh",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Long Khanh|LongKhanh)"
+      },
+      {
+        "name": "Cẩm Mỹ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cam My|CamMy)"
+      },
+      {
+        "name": "Định Quán",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dinh Quan|DinhQuan)"
+      },
+      {
+        "name": "Long Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Long Thanh|LongThanh)"
+      },
+      {
+        "name": "Nhơn Trạch",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nhon Trach|NhonTrach)"
+      },
+      {
+        "name": "Tân Phú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Phu|TanPhu)"
+      },
+      {
+        "name": "Thống Nhất",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thong Nhat|ThongNhat)"
+      },
+      {
+        "name": "Trảng Bom",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Trang Bom|TrangBom)"
+      },
+      {
+        "name": "Vĩnh Cửu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Cuu|VinhCuu)"
+      },
+      {
+        "name": "Xuân Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Xuan Loc|XuanLoc)"
+      }
+    ]
+  },
+  {
+    "name": "Đồng Tháp",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Cao Lãnh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Cao Lanh|CaoLanh)"
+      },
+      {
+        "name": "Sa Đéc",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Sa Dec|SaDec)"
+      },
+      {
+        "name": "Hồng Ngự",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Hong Ngu|HongNgu)"
+      },
+      {
+        "name": "Cao Lãnh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cao Lanh|CaoLanh)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Hồng Ngự",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hong Ngu|HongNgu)"
+      },
+      {
+        "name": "Lai Vung",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lai Vung|LaiVung)"
+      },
+      {
+        "name": "Lấp Vò",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lap Vo|LapVo)"
+      },
+      {
+        "name": "Tam Nông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tam Nong|TamNong)"
+      },
+      {
+        "name": "Tân Hồng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Hong|TanHong)"
+      },
+      {
+        "name": "Thanh  Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Binh|ThanhBinh)"
+      },
+      {
+        "name": "Tháp Mười",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thap Muoi|ThapMuoi)"
+      }
+    ]
+  },
+  {
+    "name": "Gia Lai",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Pleiku",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Pleiku)"
+      },
+      {
+        "name": "An Khê",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(An Khe|AnKhe)"
+      },
+      {
+        "name": "Ayun Pa",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Ayun Pa|AyunPa)"
+      },
+      {
+        "name": "Chư Păh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chu Pah|ChuPah)"
+      },
+      {
+        "name": "Chư Prông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chu Prong|ChuProng)"
+      },
+      {
+        "name": "Chư Pưh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chu Puh|ChuPuh)"
+      },
+      {
+        "name": "Chư Sê",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chu Se|ChuSe)"
+      },
+      {
+        "name": "Đăk Đoa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak Doa|DakDoa)"
+      },
+      {
+        "name": "Đăk Pơ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak Po|DakPo)"
+      },
+      {
+        "name": "Đức Cơ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duc Co|DucCo)"
+      },
+      {
+        "name": "Ia Grai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ia Grai|IaGrai)"
+      },
+      {
+        "name": "Ia Pa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ia Pa|IaPa)"
+      },
+      {
+        "name": "Kbang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kbang)"
+      },
+      {
+        "name": "Kông Chro",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kong Chro|KongChro)"
+      },
+      {
+        "name": "Krông Pa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Krong Pa|KrongPa)"
+      },
+      {
+        "name": "Mang Yang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mang Yang|MangYang)"
+      },
+      {
+        "name": "Phú Thiện",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Thien|PhuThien)"
+      }
+    ]
+  },
+  {
+    "name": "Hà Giang",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Hà Giang",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ha Giang|HaGiang)"
+      },
+      {
+        "name": "Bắc Mê",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Me|BacMe)"
+      },
+      {
+        "name": "Bắc Quang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Quang|BacQuang)"
+      },
+      {
+        "name": "Đồng Văn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Van|DongVan)"
+      },
+      {
+        "name": "Hoàng Su Phì",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoang Su Phi|HoangSuPhi|Hoang SuPhi|HoangSu Phi)"
+      },
+      {
+        "name": "Mèo Vạc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Meo Vac|MeoVac)"
+      },
+      {
+        "name": "Quản Bạ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quan Ba|QuanBa)"
+      },
+      {
+        "name": "Quang Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quang Binh|QuangBinh)"
+      },
+      {
+        "name": "Vị Xuyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vi Xuyen|ViXuyen)"
+      },
+      {
+        "name": "Xín Mần",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Xin Man|XinMan)"
+      },
+      {
+        "name": "Yên Minh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Minh|YenMinh)"
+      }
+    ]
+  },
+  {
+    "name": "Hà Nam",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Phủ Lý",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Phu Ly|PhuLy)"
+      },
+      {
+        "name": "Bình Lục",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Luc|BinhLuc)"
+      },
+      {
+        "name": "Duy Tiên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duy Tien|DuyTien)"
+      },
+      {
+        "name": "Kim Bảng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kim Bang|KimBang)"
+      },
+      {
+        "name": "Lý Nhân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ly Nhan|LyNhan)"
+      },
+      {
+        "name": "Thanh Liêm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Liem|ThanhLiem)"
+      }
+    ]
+  },
+  {
+    "name": "Hà Tĩnh",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Hà Tĩnh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ha Tinh|HaTinh)"
+      },
+      {
+        "name": "Hồng Lĩnh",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Hong Linh|HongLinh)"
+      },
+      {
+        "name": "Kỳ Anh",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Ky Anh|KyAnh)"
+      },
+      {
+        "name": "Cẩm Xuyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cam Xuyen|CamXuyen)"
+      },
+      {
+        "name": "Can Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Can Loc|CanLoc)"
+      },
+      {
+        "name": "Đức Thọ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duc Tho|DucTho)"
+      },
+      {
+        "name": "Hương Khê",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Huong Khe|HuongKhe)"
+      },
+      {
+        "name": "Hương Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Huong Son|HuongSon)"
+      },
+      {
+        "name": "Kỳ Anh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ky Anh|KyAnh)"
+      },
+      {
+        "name": "Lộc Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Loc Ha|LocHa)"
+      },
+      {
+        "name": "Nghi Xuân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nghi Xuan|NghiXuan)"
+      },
+      {
+        "name": "Thạch Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thach Ha|ThachHa)"
+      },
+      {
+        "name": "Vũ Quang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vu Quang|VuQuang)"
+      }
+    ]
+  },
+  {
+    "name": "Hải Dương",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Hải Dương",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Hai Duong|HaiDuong)"
+      },
+      {
+        "name": "Chí Linh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Chi Linh|ChiLinh)"
+      },
+      {
+        "name": "Bình Giang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Giang|BinhGiang)"
+      },
+      {
+        "name": "Cẩm Giàng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cam Giang|CamGiang)"
+      },
+      {
+        "name": "Gia Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Gia Loc|GiaLoc)"
+      },
+      {
+        "name": "Kim Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kim Thanh|KimThanh)"
+      },
+      {
+        "name": "Kinh Môn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kinh Mon|KinhMon)"
+      },
+      {
+        "name": "Nam Sách",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Sach|NamSach)"
+      },
+      {
+        "name": "Ninh Giang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ninh Giang|NinhGiang)"
+      },
+      {
+        "name": "Thanh Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Ha|ThanhHa)"
+      },
+      {
+        "name": "Thanh Miện",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Mien|ThanhMien)"
+      },
+      {
+        "name": "Tứ Kỳ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tu Ky|TuKy)"
+      }
+    ]
+  },
+  {
+    "name": "Hải Phòng",
+    "level": "Thành phố",
+    "counties": [
+      {
+        "name": "Đồ Sơn",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Do Son|DoSon)"
+      },
+      {
+        "name": "Dương Kinh",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Duong Kinh|DuongKinh)"
+      },
+      {
+        "name": "Hải An",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Hai An|HaiAn)"
+      },
+      {
+        "name": "Hồng Bàng",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Hong Bang|HongBang)"
+      },
+      {
+        "name": "Kiến An",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Kien An|KienAn)"
+      },
+      {
+        "name": "Lê Chân",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Le Chan|LeChan)"
+      },
+      {
+        "name": "Ngô Quyền",
+        "level": "Quận",
+        "pattern": "(quan|q)?([\\.|\\s])?(Ngo Quyen|NgoQuyen)"
+      },
+      {
+        "name": "An Dương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(An Duong|AnDuong)"
+      },
+      {
+        "name": "An Lão",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(An Lao|AnLao)"
+      },
+      {
+        "name": "Bạch Long Vĩ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bach Long Vi|BachLongVi|Bach LongVi|BachLong Vi)"
+      },
+      {
+        "name": "Cát Hải",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cat Hai|CatHai)"
+      },
+      {
+        "name": "Kiến Thụy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kien Thuy|KienThuy)"
+      },
+      {
+        "name": "Thủy Nguyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thuy Nguyen|ThuyNguyen)"
+      },
+      {
+        "name": "Tiên Lãng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tien Lang|TienLang)"
+      },
+      {
+        "name": "Vĩnh Bảo",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Bao|VinhBao)"
+      }
+    ]
+  },
+  {
+    "name": "Hậu Giang",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Vị Thanh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Vi Thanh|ViThanh)"
+      },
+      {
+        "name": "Long Mỹ",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Long My|LongMy)"
+      },
+      {
+        "name": "Ngã Bảy",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Nga Bay|NgaBay)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Châu Thành A",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh A|ChauThanhA|Chau ThanhA|ChauThanh A)"
+      },
+      {
+        "name": "Long Mỹ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Long My|LongMy)"
+      },
+      {
+        "name": "Phụng Hiệp",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phung Hiep|PhungHiep)"
+      },
+      {
+        "name": "Vị  Thủy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vi Thuy|ViThuy)"
+      }
+    ]
+  },
+  {
+    "name": "Hòa Bình",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Hòa Bình",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Hoa Binh|HoaBinh)"
+      },
+      {
+        "name": "Cao Phong",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cao Phong|CaoPhong)"
+      },
+      {
+        "name": "Đà Bắc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Da Bac|DaBac)"
+      },
+      {
+        "name": "Kim Bôi",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kim Boi|KimBoi)"
+      },
+      {
+        "name": "Kỳ Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ky Son|KySon)"
+      },
+      {
+        "name": "Lạc Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lac Son|LacSon)"
+      },
+      {
+        "name": "Lạc Thủy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lac Thuy|LacThuy)"
+      },
+      {
+        "name": "Lương Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Luong Son|LuongSon)"
+      },
+      {
+        "name": "Mai Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mai Chau|MaiChau)"
+      },
+      {
+        "name": "Tân Lạc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Lac|TanLac)"
+      },
+      {
+        "name": "Yên Thủy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Thuy|YenThuy)"
+      }
+    ]
+  },
+  {
+    "name": "Hưng Yên",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Hưng Yên",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Hung Yen|HungYen)"
+      },
+      {
+        "name": "Ân Thi",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(An Thi|AnThi)"
+      },
+      {
+        "name": "Khoái Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Khoai Chau|KhoaiChau)"
+      },
+      {
+        "name": "Kim Động",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kim Dong|KimDong)"
+      },
+      {
+        "name": "Mỹ Hào",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(My Hao|MyHao)"
+      },
+      {
+        "name": "Phù Cừ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Cu|PhuCu)"
+      },
+      {
+        "name": "Tiên Lữ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tien Lu|TienLu)"
+      },
+      {
+        "name": "Văn Giang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Giang|VanGiang)"
+      },
+      {
+        "name": "Văn Lâm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Lam|VanLam)"
+      },
+      {
+        "name": "Yên Mỹ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen My|YenMy)"
+      }
+    ]
+  },
+  {
+    "name": "Khánh Hòa",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Nha Trang",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Nha Trang|NhaTrang)"
+      },
+      {
+        "name": "Cam Ranh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Cam Ranh|CamRanh)"
+      },
+      {
+        "name": "Ninh Hòa",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Ninh Hoa|NinhHoa)"
+      },
+      {
+        "name": "Cam Lâm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cam Lam|CamLam)"
+      },
+      {
+        "name": "Diên Khánh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dien Khanh|DienKhanh)"
+      },
+      {
+        "name": "Khánh Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Khanh Son|KhanhSon)"
+      },
+      {
+        "name": "Khánh Vĩnh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Khanh Vinh|KhanhVinh)"
+      },
+      {
+        "name": "Trường Sa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Truong Sa|TruongSa)"
+      },
+      {
+        "name": "Vạn Ninh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Ninh|VanNinh)"
+      }
+    ]
+  },
+  {
+    "name": "Kiên Giang",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Rạch Giá",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Rach Gia|RachGia)"
+      },
+      {
+        "name": "Hà Tiên",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ha Tien|HaTien)"
+      },
+      {
+        "name": "An Biên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(An Bien|AnBien)"
+      },
+      {
+        "name": "An Minh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(An Minh|AnMinh)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Phú Quốc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Quoc|PhuQuoc)"
+      },
+      {
+        "name": "Giang Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Giang Thanh|GiangThanh)"
+      },
+      {
+        "name": "Giồng Riềng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Giong Rieng|GiongRieng)"
+      },
+      {
+        "name": "Gò Quao",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Go Quao|GoQuao)"
+      },
+      {
+        "name": "Hòn Đất",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hon Dat|HonDat)"
+      },
+      {
+        "name": "Kiên Hải",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kien Hai|KienHai)"
+      },
+      {
+        "name": "Kiên Lương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kien Luong|KienLuong)"
+      },
+      {
+        "name": "Tân Hiệp",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Hiep|TanHiep)"
+      },
+      {
+        "name": "U Minh Thượng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(U Minh Thuong|UMinhThuong|U MinhThuong|UMinh Thuong)"
+      },
+      {
+        "name": "Vĩnh Thuận",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Thuan|VinhThuan)"
+      }
+    ]
+  },
+  {
+    "name": "Kon Tum",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Kon Tum",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Kon Tum|KonTum)"
+      },
+      {
+        "name": "Đắk Glei",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak Glei|DakGlei)"
+      },
+      {
+        "name": "Đắk Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak Ha|DakHa)"
+      },
+      {
+        "name": "Đắk Tô",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dak To|DakTo)"
+      },
+      {
+        "name": "Kon Plông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kon Plong|KonPlong)"
+      },
+      {
+        "name": "Kon Rẫy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kon Ray|KonRay)"
+      },
+      {
+        "name": "Ngọc Hồi",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ngoc Hoi|NgocHoi)"
+      },
+      {
+        "name": "Sa Thầy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Sa Thay|SaThay)"
+      },
+      {
+        "name": "Tu Mơ Rông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tu Mo Rong|TuMoRong|Tu MoRong|TuMo Rong)"
+      },
+      {
+        "name": "Ia H'Drai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ia H'Drai|IaH'Drai)"
+      }
+    ]
+  },
+  {
+    "name": "Lai Châu",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Lai Châu",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Lai Chau|LaiChau)"
+      },
+      {
+        "name": "Mường Tè",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Muong Te|MuongTe)"
+      },
+      {
+        "name": "Nậm Nhùn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Nhun|NamNhun)"
+      },
+      {
+        "name": "Phong Thổ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phong Tho|PhongTho)"
+      },
+      {
+        "name": "Sìn Hồ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Sin Ho|SinHo)"
+      },
+      {
+        "name": "Tam Đường",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tam Duong|TamDuong)"
+      },
+      {
+        "name": "Tân Uyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Uyen|TanUyen)"
+      },
+      {
+        "name": "Than Uyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Than Uyen|ThanUyen)"
+      }
+    ]
+  },
+  {
+    "name": "Lâm Đồng",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Đà Lạt",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Da Lat|DaLat)"
+      },
+      {
+        "name": "Bảo Lộc",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Bao Loc|BaoLoc)"
+      },
+      {
+        "name": "Bảo Lâm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bao Lam|BaoLam)"
+      },
+      {
+        "name": "Cát Tiên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cat Tien|CatTien)"
+      },
+      {
+        "name": "Đạ Huoai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Da Huoai|DaHuoai)"
+      },
+      {
+        "name": "Đạ Tẻh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Da Teh|DaTeh)"
+      },
+      {
+        "name": "Đam Rông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dam Rong|DamRong)"
+      },
+      {
+        "name": "Di Linh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Di Linh|DiLinh)"
+      },
+      {
+        "name": "Đơn Dương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Don Duong|DonDuong)"
+      },
+      {
+        "name": "Đức Trọng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duc Trong|DucTrong)"
+      },
+      {
+        "name": "Lạc Dương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lac Duong|LacDuong)"
+      },
+      {
+        "name": "Lâm Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lam Ha|LamHa)"
+      }
+    ]
+  },
+  {
+    "name": "Lạng Sơn",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Lạng Sơn",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Lang Son|LangSon)"
+      },
+      {
+        "name": "Bắc Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Son|BacSon)"
+      },
+      {
+        "name": "Bình Gia",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Gia|BinhGia)"
+      },
+      {
+        "name": "Cao Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cao Loc|CaoLoc)"
+      },
+      {
+        "name": "Chi Lăng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chi Lang|ChiLang)"
+      },
+      {
+        "name": "Đình Lập",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dinh Lap|DinhLap)"
+      },
+      {
+        "name": "Hữu Lũng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Huu Lung|HuuLung)"
+      },
+      {
+        "name": "Lộc Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Loc Binh|LocBinh)"
+      },
+      {
+        "name": "Tràng Định",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Trang Dinh|TrangDinh)"
+      },
+      {
+        "name": "Văn Lãng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Lang|VanLang)"
+      },
+      {
+        "name": "Văn Quan",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Quan|VanQuan)"
+      }
+    ]
+  },
+  {
+    "name": "Lào Cai",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Lào Cai",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Lao Cai|LaoCai)"
+      },
+      {
+        "name": "Bắc Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Ha|BacHa)"
+      },
+      {
+        "name": "Bảo Thắng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bao Thang|BaoThang)"
+      },
+      {
+        "name": "Bảo Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bao Yen|BaoYen)"
+      },
+      {
+        "name": "Bát Xát",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bat Xat|BatXat)"
+      },
+      {
+        "name": "Mường Khương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Muong Khuong|MuongKhuong)"
+      },
+      {
+        "name": "Sa Pa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Sa Pa|SaPa)"
+      },
+      {
+        "name": "Si Ma Cai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Si Ma Cai|SiMaCai|Si MaCai|SiMa Cai)"
+      },
+      {
+        "name": "Văn Bàn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Ban|VanBan)"
+      }
+    ]
+  },
+  {
+    "name": "Long An",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Tân An",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Tan An|TanAn)"
+      },
+      {
+        "name": "Kiến Tường",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Kien Tuong|KienTuong)"
+      },
+      {
+        "name": "Bến Lức",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ben Luc|BenLuc)"
+      },
+      {
+        "name": "Cần Đước",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Can Duoc|CanDuoc)"
+      },
+      {
+        "name": "Cần Giuộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Can Giuoc|CanGiuoc)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Đức Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duc Hoa|DucHoa)"
+      },
+      {
+        "name": "Đức Huệ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duc Hue|DucHue)"
+      },
+      {
+        "name": "Mộc Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Moc Hoa|MocHoa)"
+      },
+      {
+        "name": "Tân Hưng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Hung|TanHung)"
+      },
+      {
+        "name": "Tân Thạnh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Thanh|TanThanh)"
+      },
+      {
+        "name": "Tân Trụ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Tru|TanTru)"
+      },
+      {
+        "name": "Thạnh Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Hoa|ThanhHoa)"
+      },
+      {
+        "name": "Thủ Thừa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thu Thua|ThuThua)"
+      },
+      {
+        "name": "Vĩnh Hưng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Hung|VinhHung)"
+      }
+    ]
+  },
+  {
+    "name": "Nam Định",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Nam Định",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Nam Dinh|NamDinh)"
+      },
+      {
+        "name": "Giao Thủy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Giao Thuy|GiaoThuy)"
+      },
+      {
+        "name": "Hải Hậu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hai Hau|HaiHau)"
+      },
+      {
+        "name": "Mỹ Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(My Loc|MyLoc)"
+      },
+      {
+        "name": "Nam Trực",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Truc|NamTruc)"
+      },
+      {
+        "name": "Nghĩa Hưng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nghia Hung|NghiaHung)"
+      },
+      {
+        "name": "Trực Ninh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Truc Ninh|TrucNinh)"
+      },
+      {
+        "name": "Vụ Bản",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vu Ban|VuBan)"
+      },
+      {
+        "name": "Xuân Trường",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Xuan Truong|XuanTruong)"
+      },
+      {
+        "name": "Ý Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Y Yen|YYen)"
+      }
+    ]
+  },
+  {
+    "name": "Nghệ An",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Vinh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Vinh)"
+      },
+      {
+        "name": "Cửa Lò",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Cua Lo|CuaLo)"
+      },
+      {
+        "name": "Hoàng Mai",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Hoang Mai|HoangMai)"
+      },
+      {
+        "name": "Thái Hòa",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Thai Hoa|ThaiHoa)"
+      },
+      {
+        "name": "Anh Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Anh Son|AnhSon)"
+      },
+      {
+        "name": "Con Cuông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Con Cuong|ConCuong)"
+      },
+      {
+        "name": "Diễn Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dien Chau|DienChau)"
+      },
+      {
+        "name": "Đô Lương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Do Luong|DoLuong)"
+      },
+      {
+        "name": "Hưng Nguyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hung Nguyen|HungNguyen)"
+      },
+      {
+        "name": "Kỳ Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ky Son|KySon)"
+      },
+      {
+        "name": "Nam Đàn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Dan|NamDan)"
+      },
+      {
+        "name": "Nghi Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nghi Loc|NghiLoc)"
+      },
+      {
+        "name": "Nghĩa Đàn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nghia Dan|NghiaDan)"
+      },
+      {
+        "name": "Quế Phong",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Que Phong|QuePhong)"
+      },
+      {
+        "name": "Quỳ Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quy Chau|QuyChau)"
+      },
+      {
+        "name": "Quỳ Hợp",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quy Hop|QuyHop)"
+      },
+      {
+        "name": "Quỳnh Lưu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quynh Luu|QuynhLuu)"
+      },
+      {
+        "name": "Tân Kỳ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Ky|TanKy)"
+      },
+      {
+        "name": "Thanh Chương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Chuong|ThanhChuong)"
+      },
+      {
+        "name": "Tương Dương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tuong Duong|TuongDuong)"
+      },
+      {
+        "name": "Yên Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Thanh|YenThanh)"
+      }
+    ]
+  },
+  {
+    "name": "Ninh Bình",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Ninh Bình",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ninh Binh|NinhBinh)"
+      },
+      {
+        "name": "Tam Điệp",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Tam Diep|TamDiep)"
+      },
+      {
+        "name": "Gia Viễn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Gia Vien|GiaVien)"
+      },
+      {
+        "name": "Hoa Lư",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoa Lu|HoaLu)"
+      },
+      {
+        "name": "Kim Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kim Son|KimSon)"
+      },
+      {
+        "name": "Nho Quan",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nho Quan|NhoQuan)"
+      },
+      {
+        "name": "Yên Khánh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Khanh|YenKhanh)"
+      },
+      {
+        "name": "Yên Mô",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Mo|YenMo)"
+      }
+    ]
+  },
+  {
+    "name": "Ninh Thuận",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Phan Rang - Tháp Chàm",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Phan Rang - Thap Cham|PhanRang-ThapCham|Phan Rang-|PhanRang -)"
+      },
+      {
+        "name": "Bác Ái",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Ai|BacAi)"
+      },
+      {
+        "name": "Ninh Hải",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ninh Hai|NinhHai)"
+      },
+      {
+        "name": "Ninh Phước",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ninh Phuoc|NinhPhuoc)"
+      },
+      {
+        "name": "Ninh Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ninh Son|NinhSon)"
+      },
+      {
+        "name": "Thuận Bắc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thuan Bac|ThuanBac)"
+      },
+      {
+        "name": "Thuận Nam",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thuan Nam|ThuanNam)"
+      }
+    ]
+  },
+  {
+    "name": "Phú Thọ",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Việt Trì",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Viet Tri|VietTri)"
+      },
+      {
+        "name": "Phú Thọ",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Phu Tho|PhuTho)"
+      },
+      {
+        "name": "Cẩm Khê",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cam Khe|CamKhe)"
+      },
+      {
+        "name": "Đoan Hùng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Doan Hung|DoanHung)"
+      },
+      {
+        "name": "Hạ Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ha Hoa|HaHoa)"
+      },
+      {
+        "name": "Lâm Thao",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lam Thao|LamThao)"
+      },
+      {
+        "name": "Phù Ninh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Ninh|PhuNinh)"
+      },
+      {
+        "name": "Tam Nông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tam Nong|TamNong)"
+      },
+      {
+        "name": "Tân Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Son|TanSon)"
+      },
+      {
+        "name": "Thanh Ba",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Ba|ThanhBa)"
+      },
+      {
+        "name": "Thanh Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Son|ThanhSon)"
+      },
+      {
+        "name": "Thanh Thủy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Thuy|ThanhThuy)"
+      },
+      {
+        "name": "Yên Lập",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Lap|YenLap)"
+      }
+    ]
+  },
+  {
+    "name": "Phú Yên",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Tuy Hòa",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Tuy Hoa|TuyHoa)"
+      },
+      {
+        "name": "Sông Cầu",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Song Cau|SongCau)"
+      },
+      {
+        "name": "Đông Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Hoa|DongHoa)"
+      },
+      {
+        "name": "Đồng Xuân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Xuan|DongXuan)"
+      },
+      {
+        "name": "Phú Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Hoa|PhuHoa)"
+      },
+      {
+        "name": "Sơn Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Son Hoa|SonHoa)"
+      },
+      {
+        "name": "Sông Hinh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Song Hinh|SongHinh)"
+      },
+      {
+        "name": "Tây Hòa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tay Hoa|TayHoa)"
+      },
+      {
+        "name": "Tuy An",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tuy An|TuyAn)"
+      }
+    ]
+  },
+  {
+    "name": "Quảng Bình",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Đồng Hới",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Dong Hoi|DongHoi)"
+      },
+      {
+        "name": "Ba Đồn",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Ba Don|BaDon)"
+      },
+      {
+        "name": "Bố Trạch",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bo Trach|BoTrach)"
+      },
+      {
+        "name": "Lệ Thủy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Le Thuy|LeThuy)"
+      },
+      {
+        "name": "Minh Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Minh Hoa|MinhHoa)"
+      },
+      {
+        "name": "Quảng Ninh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quang Ninh|QuangNinh)"
+      },
+      {
+        "name": "Quảng Trạch",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quang Trach|QuangTrach)"
+      },
+      {
+        "name": "Tuyên Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tuyen Hoa|TuyenHoa)"
+      }
+    ]
+  },
+  {
+    "name": "Quảng Nam",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Hội An",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Hoi An|HoiAn)"
+      },
+      {
+        "name": "Tam Kỳ",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Tam Ky|TamKy)"
+      },
+      {
+        "name": "Điện Bàn",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Dien Ban|DienBan)"
+      },
+      {
+        "name": "Bắc Trà My",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Tra My|BacTraMy|Bac TraMy|BacTra My)"
+      },
+      {
+        "name": "Đại Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dai Loc|DaiLoc)"
+      },
+      {
+        "name": "Đông Giang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Giang|DongGiang)"
+      },
+      {
+        "name": "Duy Xuyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duy Xuyen|DuyXuyen)"
+      },
+      {
+        "name": "Hiệp Đức",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hiep Duc|HiepDuc)"
+      },
+      {
+        "name": "Nam Giang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Giang|NamGiang)"
+      },
+      {
+        "name": "Nam Trà My",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Tra My|NamTraMy|Nam TraMy|NamTra My)"
+      },
+      {
+        "name": "Nông Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nong Son|NongSon)"
+      },
+      {
+        "name": "Núi Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nui Thanh|NuiThanh)"
+      },
+      {
+        "name": "Phú Ninh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Ninh|PhuNinh)"
+      },
+      {
+        "name": "Phước Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phuoc Son|PhuocSon)"
+      },
+      {
+        "name": "Quế Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Que Son|QueSon)"
+      },
+      {
+        "name": "Tây Giang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tay Giang|TayGiang)"
+      },
+      {
+        "name": "Thăng Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thang Binh|ThangBinh)"
+      },
+      {
+        "name": "Tiên Phước",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tien Phuoc|TienPhuoc)"
+      }
+    ]
+  },
+  {
+    "name": "Quảng Ngãi",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Quảng Ngãi",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Quang Ngai|QuangNgai)"
+      },
+      {
+        "name": "Ba Tơ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ba To|BaTo)"
+      },
+      {
+        "name": "Bình Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Son|BinhSon)"
+      },
+      {
+        "name": "Lý Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ly Son|LySon)"
+      },
+      {
+        "name": "Đức Phổ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duc Pho|DucPho)"
+      },
+      {
+        "name": "Minh Long",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Minh Long|MinhLong)"
+      },
+      {
+        "name": "Mộ Đức",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mo Duc|MoDuc)"
+      },
+      {
+        "name": "Nghĩa Hành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nghia Hanh|NghiaHanh)"
+      },
+      {
+        "name": "Sơn Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Son Ha|SonHa)"
+      },
+      {
+        "name": "Sơn Tây",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Son Tay|SonTay)"
+      },
+      {
+        "name": "Sơn Tịnh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Son Tinh|SonTinh)"
+      },
+      {
+        "name": "Tây Trà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tay Tra|TayTra)"
+      },
+      {
+        "name": "Trà Bồng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tra Bong|TraBong)"
+      },
+      {
+        "name": "Tư Nghĩa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tu Nghia|TuNghia)"
+      }
+    ]
+  },
+  {
+    "name": "Quảng Ninh",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Cẩm Phả",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Cam Pha|CamPha)"
+      },
+      {
+        "name": "Hạ Long",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ha Long|HaLong)"
+      },
+      {
+        "name": "Móng Cái",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Mong Cai|MongCai)"
+      },
+      {
+        "name": "Uông Bí",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Uong Bi|UongBi)"
+      },
+      {
+        "name": "Đông Triều",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Dong Trieu|DongTrieu)"
+      },
+      {
+        "name": "Quảng Yên",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Quang Yen|QuangYen)"
+      },
+      {
+        "name": "Ba Chẽ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ba Che|BaChe)"
+      },
+      {
+        "name": "Bình Liêu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Lieu|BinhLieu)"
+      },
+      {
+        "name": "Cô Tô",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Co To|CoTo)"
+      },
+      {
+        "name": "Đầm Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dam Ha|DamHa)"
+      },
+      {
+        "name": "Hải Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hai Ha|HaiHa)"
+      },
+      {
+        "name": "Hoành Bồ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoanh Bo|HoanhBo)"
+      },
+      {
+        "name": "Tiên Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tien Yen|TienYen)"
+      },
+      {
+        "name": "Vân Đồn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Don|VanDon)"
+      }
+    ]
+  },
+  {
+    "name": "Quảng Trị",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Đông Hà",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Dong Ha|DongHa)"
+      },
+      {
+        "name": "Quảng Trị",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Quang Tri|QuangTri)"
+      },
+      {
+        "name": "Cam Lộ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cam Lo|CamLo)"
+      },
+      {
+        "name": "Cồn Cỏ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Con Co|ConCo)"
+      },
+      {
+        "name": "ĐaKrông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(DaKrong)"
+      },
+      {
+        "name": "Gio Linh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Gio Linh|GioLinh)"
+      },
+      {
+        "name": "Hải Lăng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hai Lang|HaiLang)"
+      },
+      {
+        "name": "Hướng Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Huong Hoa|HuongHoa)"
+      },
+      {
+        "name": "Triệu Phong",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Trieu Phong|TrieuPhong)"
+      },
+      {
+        "name": "Vĩnh Linh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Linh|VinhLinh)"
+      }
+    ]
+  },
+  {
+    "name": "Sóc Trăng",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Sóc Trăng",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Soc Trang|SocTrang)"
+      },
+      {
+        "name": "Ngã Năm",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Nga Nam|NgaNam)"
+      },
+      {
+        "name": "Vĩnh Châu",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Vinh Chau|VinhChau)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Cù Lao Dung",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cu Lao Dung|CuLaoDung|Cu LaoDung|CuLao Dung)"
+      },
+      {
+        "name": "Kế Sách",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ke Sach|KeSach)"
+      },
+      {
+        "name": "Long Phú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Long Phu|LongPhu)"
+      },
+      {
+        "name": "Mỹ Tú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(My Tu|MyTu)"
+      },
+      {
+        "name": "Mỹ Xuyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(My Xuyen|MyXuyen)"
+      },
+      {
+        "name": "Thạnh Trị",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thanh Tri|ThanhTri)"
+      },
+      {
+        "name": "Trần Đề",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tran De|TranDe)"
+      }
+    ]
+  },
+  {
+    "name": "Sơn La",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Sơn La",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Son La|SonLa)"
+      },
+      {
+        "name": "Bắc Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Bac Yen|BacYen)"
+      },
+      {
+        "name": "Mai Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mai Son|MaiSon)"
+      },
+      {
+        "name": "Mộc Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Moc Chau|MocChau)"
+      },
+      {
+        "name": "Mường La",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Muong La|MuongLa)"
+      },
+      {
+        "name": "Phù Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Yen|PhuYen)"
+      },
+      {
+        "name": "Quỳnh Nhai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quynh Nhai|QuynhNhai)"
+      },
+      {
+        "name": "Sông Mã",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Song Ma|SongMa)"
+      },
+      {
+        "name": "Sốp Cộp",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Sop Cop|SopCop)"
+      },
+      {
+        "name": "Thuận Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thuan Chau|ThuanChau)"
+      },
+      {
+        "name": "Vân Hồ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Ho|VanHo)"
+      },
+      {
+        "name": "Yên Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Chau|YenChau)"
+      }
+    ]
+  },
+  {
+    "name": "Tây Ninh",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Tây Ninh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Tay Ninh|TayNinh)"
+      },
+      {
+        "name": "Bến Cầu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ben Cau|BenCau)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Dương Minh Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duong Minh Chau|DuongMinhChau|Duong MinhChau|DuongMinh Chau)"
+      },
+      {
+        "name": "Gò Dầu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Go Dau|GoDau)"
+      },
+      {
+        "name": "Hòa Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoa Thanh|HoaThanh)"
+      },
+      {
+        "name": "Tân Biên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Bien|TanBien)"
+      },
+      {
+        "name": "Tân Châu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Chau|TanChau)"
+      },
+      {
+        "name": "Trảng Bàng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Trang Bang|TrangBang)"
+      }
+    ]
+  },
+  {
+    "name": "Thái Bình",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Thái Bình",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Thai Binh|ThaiBinh)"
+      },
+      {
+        "name": "Đông Hưng",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Hung|DongHung)"
+      },
+      {
+        "name": "Hưng Hà",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hung Ha|HungHa)"
+      },
+      {
+        "name": "Kiến Xương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Kien Xuong|KienXuong)"
+      },
+      {
+        "name": "Quỳnh phụ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quynh phu|Quynhphu)"
+      },
+      {
+        "name": "Thái Thụy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thai Thuy|ThaiThuy)"
+      },
+      {
+        "name": "Tiền Hải",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tien Hai|TienHai)"
+      },
+      {
+        "name": "Vũ Thư",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vu Thu|VuThu)"
+      }
+    ]
+  },
+  {
+    "name": "Thái Nguyên",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Sông Công",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Song Cong|SongCong)"
+      },
+      {
+        "name": "Thái Nguyên",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Thai Nguyen|ThaiNguyen)"
+      },
+      {
+        "name": "Phổ Yên",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Pho Yen|PhoYen)"
+      },
+      {
+        "name": "Đại Từ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dai Tu|DaiTu)"
+      },
+      {
+        "name": "Định Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dinh Hoa|DinhHoa)"
+      },
+      {
+        "name": "Đồng Hỷ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Hy|DongHy)"
+      },
+      {
+        "name": "Phú Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Binh|PhuBinh)"
+      },
+      {
+        "name": "Phú Lương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Luong|PhuLuong)"
+      },
+      {
+        "name": "Võ Nhai",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vo Nhai|VoNhai)"
+      }
+    ]
+  },
+  {
+    "name": "Thanh Hóa",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Thanh Hóa",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Thanh Hoa|ThanhHoa)"
+      },
+      {
+        "name": "Bỉm Sơn",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Bim Son|BimSon)"
+      },
+      {
+        "name": "Sầm Sơn",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Sam Son|SamSon)"
+      },
+      {
+        "name": "Bá Thước",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ba Thuoc|BaThuoc)"
+      },
+      {
+        "name": "Cẩm Thủy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cam Thuy|CamThuy)"
+      },
+      {
+        "name": "Đông Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Dong Son|DongSon)"
+      },
+      {
+        "name": "Hà Trung",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ha Trung|HaTrung)"
+      },
+      {
+        "name": "Hậu Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hau Loc|HauLoc)"
+      },
+      {
+        "name": "Hoằng Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Hoang Hoa|HoangHoa)"
+      },
+      {
+        "name": "Lang Chánh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lang Chanh|LangChanh)"
+      },
+      {
+        "name": "Mường Lát",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Muong Lat|MuongLat)"
+      },
+      {
+        "name": "Nga Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nga Son|NgaSon)"
+      },
+      {
+        "name": "Ngọc Lặc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ngoc Lac|NgocLac)"
+      },
+      {
+        "name": "Như Thanh",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nhu Thanh|NhuThanh)"
+      },
+      {
+        "name": "Như Xuân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nhu Xuan|NhuXuan)"
+      },
+      {
+        "name": "Nông Cống",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nong Cong|NongCong)"
+      },
+      {
+        "name": "Quan Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quan Hoa|QuanHoa)"
+      },
+      {
+        "name": "Quan Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quan Son|QuanSon)"
+      },
+      {
+        "name": "Quảng Xương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quang Xuong|QuangXuong)"
+      },
+      {
+        "name": "Thạch Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thach Thanh|ThachThanh)"
+      },
+      {
+        "name": "Thiệu Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thieu Hoa|ThieuHoa)"
+      },
+      {
+        "name": "Thọ Xuân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tho Xuan|ThoXuan)"
+      },
+      {
+        "name": "Thường Xuân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Thuong Xuan|ThuongXuan)"
+      },
+      {
+        "name": "Tĩnh Gia",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tinh Gia|TinhGia)"
+      },
+      {
+        "name": "Triệu Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Trieu Son|TrieuSon)"
+      },
+      {
+        "name": "Vĩnh Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Loc|VinhLoc)"
+      },
+      {
+        "name": "Yên Định",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Dinh|YenDinh)"
+      }
+    ]
+  },
+  {
+    "name": "Thừa Thiên - Huế",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Huế",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Hue)"
+      },
+      {
+        "name": "Hương Thủy",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Huong Thuy|HuongThuy)"
+      },
+      {
+        "name": "Hương Trà",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Huong Tra|HuongTra)"
+      },
+      {
+        "name": "A Lưới",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(A Luoi|ALuoi)"
+      },
+      {
+        "name": "Nam Đông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Nam Dong|NamDong)"
+      },
+      {
+        "name": "Phong Điền",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phong Dien|PhongDien)"
+      },
+      {
+        "name": "Phú Lộc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Loc|PhuLoc)"
+      },
+      {
+        "name": "Phú Vang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Phu Vang|PhuVang)"
+      },
+      {
+        "name": "Quảng Điền",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Quang Dien|QuangDien)"
+      }
+    ]
+  },
+  {
+    "name": "Tiền Giang",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Mỹ Tho",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(My Tho|MyTho)"
+      },
+      {
+        "name": "Cai Lậy",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Cai Lay|CaiLay)"
+      },
+      {
+        "name": "Gò Công",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Go Cong|GoCong)"
+      },
+      {
+        "name": "Cái  Bè",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cai Be|CaiBe)"
+      },
+      {
+        "name": "Cai Lậy",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cai Lay|CaiLay)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Chợ Gạo",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cho Gao|ChoGao)"
+      },
+      {
+        "name": "Gò Công Đông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Go Cong Dong|GoCongDong|Go CongDong|GoCong Dong)"
+      },
+      {
+        "name": "Gò Công Tây",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Go Cong Tay|GoCongTay|Go CongTay|GoCong Tay)"
+      },
+      {
+        "name": "Tân Phú Đông",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Phu Dong|TanPhuDong|Tan PhuDong|TanPhu Dong)"
+      },
+      {
+        "name": "Tân Phước",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tan Phuoc|TanPhuoc)"
+      }
+    ]
+  },
+  {
+    "name": "Trà Vinh",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Trà Vinh",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Tra Vinh|TraVinh)"
+      },
+      {
+        "name": "Duyên Hải",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Duyen Hai|DuyenHai)"
+      },
+      {
+        "name": "Càng Long",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cang Long|CangLong)"
+      },
+      {
+        "name": "Cầu Kè",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cau Ke|CauKe)"
+      },
+      {
+        "name": "Cầu Ngang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Cau Ngang|CauNgang)"
+      },
+      {
+        "name": "Châu Thành",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chau Thanh|ChauThanh)"
+      },
+      {
+        "name": "Duyên Hải",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Duyen Hai|DuyenHai)"
+      },
+      {
+        "name": "Tiểu Cần",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tieu Can|TieuCan)"
+      },
+      {
+        "name": "Trà Cú",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tra Cu|TraCu)"
+      }
+    ]
+  },
+  {
+    "name": "Tuyên Quang",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Tuyên Quang",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Tuyen Quang|TuyenQuang)"
+      },
+      {
+        "name": "Chiêm Hóa",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Chiem Hoa|ChiemHoa)"
+      },
+      {
+        "name": "Hàm Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Ham Yen|HamYen)"
+      },
+      {
+        "name": "Lâm Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lam Binh|LamBinh)"
+      },
+      {
+        "name": "Na Hang",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Na Hang|NaHang)"
+      },
+      {
+        "name": "Sơn Dương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Son Duong|SonDuong)"
+      },
+      {
+        "name": "Yên Sơn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Son|YenSon)"
+      }
+    ]
+  },
+  {
+    "name": "Vĩnh Long",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Vĩnh Long",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Vinh Long|VinhLong)"
+      },
+      {
+        "name": "Bình Minh",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Binh Minh|BinhMinh)"
+      },
+      {
+        "name": "Bình Tân",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Tan|BinhTan)"
+      },
+      {
+        "name": "Long Hồ",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Long Ho|LongHo)"
+      },
+      {
+        "name": "Mang Thít",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mang Thit|MangThit)"
+      },
+      {
+        "name": "Tam Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tam Binh|TamBinh)"
+      },
+      {
+        "name": "Trà Ôn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tra On|TraOn)"
+      },
+      {
+        "name": "Vũng Liêm",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vung Liem|VungLiem)"
+      }
+    ]
+  },
+  {
+    "name": "Vĩnh Phúc",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Vĩnh Yên",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Vinh Yen|VinhYen)"
+      },
+      {
+        "name": "Phúc Yên",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Phuc Yen|PhucYen)"
+      },
+      {
+        "name": "Bình Xuyên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Binh Xuyen|BinhXuyen)"
+      },
+      {
+        "name": "Lập Thạch",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Lap Thach|LapThach)"
+      },
+      {
+        "name": "Sông Lô",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Song Lo|SongLo)"
+      },
+      {
+        "name": "Tam Đảo",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tam Dao|TamDao)"
+      },
+      {
+        "name": "Tam Dương",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tam Duong|TamDuong)"
+      },
+      {
+        "name": "Vĩnh Tường",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Vinh Tuong|VinhTuong)"
+      },
+      {
+        "name": "Yên Lạc",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Lac|YenLac)"
+      }
+    ]
+  },
+  {
+    "name": "Yên Bái",
+    "level": "Tỉnh",
+    "counties": [
+      {
+        "name": "Yên Bái",
+        "level": "Thành phố",
+        "pattern": "(thanhpho|tp)?([\\.|\\s])?(Yen Bai|YenBai)"
+      },
+      {
+        "name": "Nghĩa Lộ",
+        "level": "Thị xã",
+        "pattern": "(thi xa|tx)?([\\.|\\s])?(Nghia Lo|NghiaLo)"
+      },
+      {
+        "name": "Lục Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Luc Yen|LucYen)"
+      },
+      {
+        "name": "Mù Cang Chải",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Mu Cang Chai|MuCangChai|Mu CangChai|MuCang Chai)"
+      },
+      {
+        "name": "Trạm Tấu",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tram Tau|TramTau)"
+      },
+      {
+        "name": "Trấn Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Tran Yen|TranYen)"
+      },
+      {
+        "name": "Văn Chấn",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Chan|VanChan)"
+      },
+      {
+        "name": "Văn Yên",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Van Yen|VanYen)"
+      },
+      {
+        "name": "Yên Bình",
+        "level": "Huyện",
+        "pattern": "(huyen|h)?([\\.|\\s])?(Yen Binh|YenBinh)"
+      }
+    ]
+  }
+]
