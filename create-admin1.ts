@@ -30,8 +30,16 @@ const results = admin.reduce((acc: any[], value: any) => {
   const name = value.name.replace(/tỉnh |thành phố /gi, '')
   const region = removeAccents(name)
   const level = /tỉnh /.test(value.name) ? 'Tỉnh' : 'Thành phố'
+  let pattern = ''
+  
+  const nameRe = createNameRe(region)
+  if (level === 'Tỉnh') {
+    pattern = `(tinh|t)?([\\.|\\s])?(${nameRe})`
+  } else {
+    pattern = `(thanhpho|tp)?([\\.|\\s])?(${nameRe})`
+  }
+  
   const counties = value.districs.reduce((acc: any[], cur: any) => {
-    // const district = removeAccents(cur.name.replace(/thành phố |thị xã |huyện |quận /gi, ''))
     const district = removeAccents(cur.name)
   
     if (/thanh pho /.test(district)) {
@@ -96,6 +104,7 @@ const results = admin.reduce((acc: any[], value: any) => {
   return acc.concat({
     name,
     level,
+    pattern,
     counties
   })
 }, [])

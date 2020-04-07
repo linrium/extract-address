@@ -2,6 +2,7 @@
   {
     "name": "Hồ Chí Minh",
     "level": "Thành phố",
+    "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ho Chi Minh|HoChiMinh|Ho ChiMinh|HoChi Minh)",
     "counties": [
       {
         "name": "1",
@@ -128,6 +129,7 @@
   {
     "name": "Hà Nội",
     "level": "Thành phố",
+    "pattern": "(thanhpho|tp)?([\\.|\\s])?(Ha Noi|HaNoi)",
     "counties": [
       {
         "name": "Ba Đình",
@@ -284,6 +286,7 @@
   {
     "name": "An Giang",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(An Giang|AnGiang)",
     "counties": [
       {
         "name": "Long Xuyên",
@@ -345,6 +348,7 @@
   {
     "name": "Bà Rịa - Vũng Tàu",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ba Ria - Vung Tau|BaRia-VungTau|Ba Ria-|BaRia -)",
     "counties": [
       {
         "name": "Vũng Tàu",
@@ -391,6 +395,7 @@
   {
     "name": "Bắc Giang",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Bac Giang|BacGiang)",
     "counties": [
       {
         "name": "Bắc Giang",
@@ -447,6 +452,7 @@
   {
     "name": "Bắc Kạn",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Bac Kan|BacKan)",
     "counties": [
       {
         "name": "Bắc Kạn",
@@ -493,6 +499,7 @@
   {
     "name": "Bạc Liêu",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Bac Lieu|BacLieu)",
     "counties": [
       {
         "name": "Bạc Liêu",
@@ -534,6 +541,7 @@
   {
     "name": "Bắc Ninh",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Bac Ninh|BacNinh)",
     "counties": [
       {
         "name": "Bắc Ninh",
@@ -580,6 +588,7 @@
   {
     "name": "Bến Tre",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ben Tre|BenTre)",
     "counties": [
       {
         "name": "Bến Tre",
@@ -631,6 +640,7 @@
   {
     "name": "Bình Định",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Binh Dinh|BinhDinh)",
     "counties": [
       {
         "name": "Quy Nhơn",
@@ -692,6 +702,7 @@
   {
     "name": "Bình Dương",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Binh Duong|BinhDuong)",
     "counties": [
       {
         "name": "Thủ Dầu Một",
@@ -743,6 +754,7 @@
   {
     "name": "Bình Phước",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Binh Phuoc|BinhPhuoc)",
     "counties": [
       {
         "name": "Đồng Xoài",
@@ -804,6 +816,7 @@
   {
     "name": "Bình Thuận",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Binh Thuan|BinhThuan)",
     "counties": [
       {
         "name": "Phan Thiết",
@@ -860,6 +873,7 @@
   {
     "name": "Cà Mau",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ca Mau|CaMau)",
     "counties": [
       {
         "name": "Cà Mau",
@@ -911,6 +925,7 @@
   {
     "name": "Cần Thơ",
     "level": "Thành phố",
+    "pattern": "(thanhpho|tp)?([\\.|\\s])?(Can Tho|CanTho)",
     "counties": [
       {
         "name": "Bình Thủy",
@@ -962,6 +977,7 @@
   {
     "name": "Cao Bằng",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Cao Bang|CaoBang)",
     "counties": [
       {
         "name": "Cao Bằng",
@@ -1033,6 +1049,7 @@
   {
     "name": "Đà Nẵng",
     "level": "Thành phố",
+    "pattern": "(thanhpho|tp)?([\\.|\\s])?(Da Nang|DaNang)",
     "counties": [
       {
         "name": "Cẩm Lệ",
@@ -1079,6 +1096,7 @@
   {
     "name": "Đắk Lắk",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Dak Lak|DakLak)",
     "counties": [
       {
         "name": "Buôn Ma Thuột",
@@ -1160,6 +1178,7 @@
   {
     "name": "Đắk Nông",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Dak Nong|DakNong)",
     "counties": [
       {
         "name": "Gia Nghĩa",
@@ -1206,6 +1225,7 @@
   {
     "name": "Điện Biên",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Dien Bien|DienBien)",
     "counties": [
       {
         "name": "Điện Biên Phủ",
@@ -1262,6 +1282,7 @@
   {
     "name": "Đồng Nai",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Dong Nai|DongNai)",
     "counties": [
       {
         "name": "Biên Hòa",
@@ -1323,6 +1344,7 @@
   {
     "name": "Đồng Tháp",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Dong Thap|DongThap)",
     "counties": [
       {
         "name": "Cao Lãnh",
@@ -1389,6 +1411,7 @@
   {
     "name": "Gia Lai",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Gia Lai|GiaLai)",
     "counties": [
       {
         "name": "Pleiku",
@@ -1480,6 +1503,7 @@
   {
     "name": "Hà Giang",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ha Giang|HaGiang)",
     "counties": [
       {
         "name": "Hà Giang",
@@ -1541,6 +1565,7 @@
   {
     "name": "Hà Nam",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ha Nam|HaNam)",
     "counties": [
       {
         "name": "Phủ Lý",
@@ -1577,6 +1602,7 @@
   {
     "name": "Hà Tĩnh",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ha Tinh|HaTinh)",
     "counties": [
       {
         "name": "Hà Tĩnh",
@@ -1648,6 +1674,7 @@
   {
     "name": "Hải Dương",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Hai Duong|HaiDuong)",
     "counties": [
       {
         "name": "Hải Dương",
@@ -1714,6 +1741,7 @@
   {
     "name": "Hải Phòng",
     "level": "Thành phố",
+    "pattern": "(thanhpho|tp)?([\\.|\\s])?(Hai Phong|HaiPhong)",
     "counties": [
       {
         "name": "Đồ Sơn",
@@ -1795,6 +1823,7 @@
   {
     "name": "Hậu Giang",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Hau Giang|HauGiang)",
     "counties": [
       {
         "name": "Vị Thanh",
@@ -1841,6 +1870,7 @@
   {
     "name": "Hòa Bình",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Hoa Binh|HoaBinh)",
     "counties": [
       {
         "name": "Hòa Bình",
@@ -1902,6 +1932,7 @@
   {
     "name": "Hưng Yên",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Hung Yen|HungYen)",
     "counties": [
       {
         "name": "Hưng Yên",
@@ -1958,6 +1989,7 @@
   {
     "name": "Khánh Hòa",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Khanh Hoa|KhanhHoa)",
     "counties": [
       {
         "name": "Nha Trang",
@@ -2009,6 +2041,7 @@
   {
     "name": "Kiên Giang",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Kien Giang|KienGiang)",
     "counties": [
       {
         "name": "Rạch Giá",
@@ -2090,6 +2123,7 @@
   {
     "name": "Kon Tum",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Kon Tum|KonTum)",
     "counties": [
       {
         "name": "Kon Tum",
@@ -2146,6 +2180,7 @@
   {
     "name": "Lai Châu",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Lai Chau|LaiChau)",
     "counties": [
       {
         "name": "Lai Châu",
@@ -2192,6 +2227,7 @@
   {
     "name": "Lâm Đồng",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Lam Dong|LamDong)",
     "counties": [
       {
         "name": "Đà Lạt",
@@ -2258,6 +2294,7 @@
   {
     "name": "Lạng Sơn",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Lang Son|LangSon)",
     "counties": [
       {
         "name": "Lạng Sơn",
@@ -2319,6 +2356,7 @@
   {
     "name": "Lào Cai",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Lao Cai|LaoCai)",
     "counties": [
       {
         "name": "Lào Cai",
@@ -2370,6 +2408,7 @@
   {
     "name": "Long An",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Long An|LongAn)",
     "counties": [
       {
         "name": "Tân An",
@@ -2451,6 +2490,7 @@
   {
     "name": "Nam Định",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Nam Dinh|NamDinh)",
     "counties": [
       {
         "name": "Nam Định",
@@ -2507,6 +2547,7 @@
   {
     "name": "Nghệ An",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Nghe An|NgheAn)",
     "counties": [
       {
         "name": "Vinh",
@@ -2618,6 +2659,7 @@
   {
     "name": "Ninh Bình",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ninh Binh|NinhBinh)",
     "counties": [
       {
         "name": "Ninh Bình",
@@ -2664,6 +2706,7 @@
   {
     "name": "Ninh Thuận",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Ninh Thuan|NinhThuan)",
     "counties": [
       {
         "name": "Phan Rang - Tháp Chàm",
@@ -2705,6 +2748,7 @@
   {
     "name": "Phú Thọ",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Phu Tho|PhuTho)",
     "counties": [
       {
         "name": "Việt Trì",
@@ -2776,6 +2820,7 @@
   {
     "name": "Phú Yên",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Phu Yen|PhuYen)",
     "counties": [
       {
         "name": "Tuy Hòa",
@@ -2827,6 +2872,7 @@
   {
     "name": "Quảng Bình",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Quang Binh|QuangBinh)",
     "counties": [
       {
         "name": "Đồng Hới",
@@ -2873,6 +2919,7 @@
   {
     "name": "Quảng Nam",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Quang Nam|QuangNam)",
     "counties": [
       {
         "name": "Hội An",
@@ -2969,6 +3016,7 @@
   {
     "name": "Quảng Ngãi",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Quang Ngai|QuangNgai)",
     "counties": [
       {
         "name": "Quảng Ngãi",
@@ -3045,6 +3093,7 @@
   {
     "name": "Quảng Ninh",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Quang Ninh|QuangNinh)",
     "counties": [
       {
         "name": "Cẩm Phả",
@@ -3121,6 +3170,7 @@
   {
     "name": "Quảng Trị",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Quang Tri|QuangTri)",
     "counties": [
       {
         "name": "Đông Hà",
@@ -3177,6 +3227,7 @@
   {
     "name": "Sóc Trăng",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Soc Trang|SocTrang)",
     "counties": [
       {
         "name": "Sóc Trăng",
@@ -3238,6 +3289,7 @@
   {
     "name": "Sơn La",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Son La|SonLa)",
     "counties": [
       {
         "name": "Sơn La",
@@ -3304,6 +3356,7 @@
   {
     "name": "Tây Ninh",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Tay Ninh|TayNinh)",
     "counties": [
       {
         "name": "Tây Ninh",
@@ -3355,6 +3408,7 @@
   {
     "name": "Thái Bình",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Thai Binh|ThaiBinh)",
     "counties": [
       {
         "name": "Thái Bình",
@@ -3401,6 +3455,7 @@
   {
     "name": "Thái Nguyên",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Thai Nguyen|ThaiNguyen)",
     "counties": [
       {
         "name": "Sông Công",
@@ -3452,6 +3507,7 @@
   {
     "name": "Thanh Hóa",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Thanh Hoa|ThanhHoa)",
     "counties": [
       {
         "name": "Thanh Hóa",
@@ -3593,6 +3649,7 @@
   {
     "name": "Thừa Thiên - Huế",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Thua Thien - Hue|ThuaThien-Hue|Thua Thien-|ThuaThien -)",
     "counties": [
       {
         "name": "Huế",
@@ -3644,6 +3701,7 @@
   {
     "name": "Tiền Giang",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Tien Giang|TienGiang)",
     "counties": [
       {
         "name": "Mỹ Tho",
@@ -3705,6 +3763,7 @@
   {
     "name": "Trà Vinh",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Tra Vinh|TraVinh)",
     "counties": [
       {
         "name": "Trà Vinh",
@@ -3756,6 +3815,7 @@
   {
     "name": "Tuyên Quang",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Tuyen Quang|TuyenQuang)",
     "counties": [
       {
         "name": "Tuyên Quang",
@@ -3797,6 +3857,7 @@
   {
     "name": "Vĩnh Long",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Vinh Long|VinhLong)",
     "counties": [
       {
         "name": "Vĩnh Long",
@@ -3843,6 +3904,7 @@
   {
     "name": "Vĩnh Phúc",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Vinh Phuc|VinhPhuc)",
     "counties": [
       {
         "name": "Vĩnh Yên",
@@ -3894,6 +3956,7 @@
   {
     "name": "Yên Bái",
     "level": "Tỉnh",
+    "pattern": "(tinh|t)?([\\.|\\s])?(Yen Bai|YenBai)",
     "counties": [
       {
         "name": "Yên Bái",
